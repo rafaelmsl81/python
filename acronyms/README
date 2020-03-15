@@ -1,3 +1,7 @@
-Script to check for acronyms in a text and return a csv file with all acronyms found
+This is Script to check for acronyms in a text. It was used to scrap a Master's thesis and build an Acronym's dictionary.
 
-Acronym logic = any word that has at least 2 uppercase letters.
+The logic to find an Acronym in this script is: any word that has at least 2 uppercase letters.
+
+The script will ask for the original filename and a new filename. 
+
+The new file will be a list separated by comma of all acronyms found
