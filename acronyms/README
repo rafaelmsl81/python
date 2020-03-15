@@ -1,0 +1,3 @@
+Script to check for acronyms in a text and return a csv file with all acronyms found
+
+Acronym logic = any word that has at least 2 uppercase letters.
